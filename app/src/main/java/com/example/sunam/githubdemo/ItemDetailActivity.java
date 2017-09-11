@@ -18,6 +18,9 @@ import android.view.MenuItem;
  */
 public class ItemDetailActivity extends AppCompatActivity {
 
+
+    // Some comments
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
